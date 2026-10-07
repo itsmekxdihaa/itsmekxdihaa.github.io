@@ -1102,6 +1102,14 @@ html[data-theme="light"] .frame {
 
 .colophon p {
   margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.views {
+  height: 18px;
+  width: auto;
 }
 
 .colophon a {
